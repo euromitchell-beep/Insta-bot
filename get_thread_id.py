@@ -1,7 +1,7 @@
 from instagrapi import Client
 
-USERNAME = "YOUR_INSTAGRAM_USERNAME"
-PASSWORD = "YOUR_INSTAGRAM_PASSWORD"
+USERNAME = "castingyounow9"
+PASSWORD = "akki7860"
 
 cl = Client()
 cl.login(USERNAME, PASSWORD)
